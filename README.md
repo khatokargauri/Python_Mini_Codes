@@ -1,4 +1,4 @@
- About
+
 This repository tracks my learning journey through the 100 Days of Python Bootcamp.
 Each folder represents a day/project with hands-on practice.
 
